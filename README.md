@@ -1,1 +1,1 @@
-"# QuantumMadness" 
+# QuantumMadness
